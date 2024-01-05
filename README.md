@@ -1,4 +1,4 @@
-**Sales Data Mart Development Overview:**
+# Sales Data Mart Development Overview:
 
 - **Objective:** Created a Sales Data Mart to streamline data management and support informed decision-making.
 
