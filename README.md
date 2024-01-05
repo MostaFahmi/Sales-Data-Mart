@@ -17,11 +17,10 @@
   - Implemented incremental loading and Change Data Capture (CDC) strategies for efficiency.
 
 - **Performance Optimization:**
-  - Employed SQL Server optimization techniques, including indexing and partitioning, for enhanced query performance.
+  - Employed SQL Server optimization techniques, including indexing for enhanced query performance.
 
 - **Scalability and Flexibility:**
-  - Designed the data mart for scalability, ensuring seamless expansion as data volume grows.
-  - Maintained flexibility to adapt to evolving business requirements.
+  - Designed the data mart for scalability, with loading the fact_sales by the incremental technique
 
 - **User-friendly Reporting:**
   - Integrated the data mart with reporting tools, providing stakeholders with an intuitive interface for insightful reporting.
